@@ -1,7 +1,8 @@
 <?php require '../header.php'; ?>
 
 <?php
-hello
+hello;
+'こんにちは'
 ?>
 
 <?php require '../fotter.php'; ?>
